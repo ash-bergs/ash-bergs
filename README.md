@@ -1,6 +1,6 @@
-## 🌻Welcome🌻 
+## 🌻 Hello Beautiful 🌻 
 
-I'm Ash, I'm a full stack developer with a passion for front-end design. I'm also obsessed with testing and accessibility. The internet, and code, are for everyone. 
+I'm Ash. I'm a full stack engineer with a passion for UX design, accessibility and 
 
 - ⚒ I’m currently working on ... My portfolio - stay tuned!📺 
 - 📚 I’m currently learning ... React & React Native
