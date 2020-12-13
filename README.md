@@ -9,5 +9,5 @@ I'm Ash. I'm a full stack engineer with a passion for UX design and accessibilit
 - 💬 Ask me about ... almost anything! 
 - 📫 How to reach me: ... **ashizbergs@gmail.com** 
 - ⚡ Fun fact: ... I'm an avid knitter - or, as we call ourselves, fiber artist 🧶
-- 📖 I'm currently reading... The Five: The Untold Live of the Women Killed by Jack the Ripper by Hallie Rubenhold 
+- 📖 I'm currently reading... The Five: The Untold Lives of the Women Killed by Jack the Ripper by Hallie Rubenhold 
 
