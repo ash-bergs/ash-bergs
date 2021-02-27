@@ -2,12 +2,11 @@
 
 I'm Ash. I'm a full stack engineer with a passion for UX design and accessibility. I love creating educational apps and experiences. 
 
-- ⚒ I’m currently working on ... A flashcard studying app! 
-- 📚 I’m currently learning ... Design theory and Illustrator
-- 👯 I’m looking to collaborate on ... React/Python & more
-- 🤔 I’m looking for help with ... Python🐍
+- ⚒ I’m currently working on ... my [Blog](https://dev.to/ash_bergs) and flashcard studying app
+- 📚 I’m currently learning ... Jest testing and Adobe Illustrator
+- 👯 I’m looking to collaborate on ... React/Python & more!
+- 🤔 I’m looking for help with ... thinking modularly
 - 💬 Ask me about ... almost anything! 
-- 📫 How to reach me: ... **ashizbergs@gmail.com** 
-- ⚡ Fun fact: ... I'm an avid knitter 🧶
-- 📖 I'm currently reading... Chartography: The Weird and Wonderful World of Infographics by Stephen Wildish
-
+- 📫 How to reach me: ... **bergsma.ash@gmail.com** 
+- 📖 I'm currently reading... [The Victorian Internet](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X) by Tom Standage
+- ⚡ Fun fact: ... I love knitting 🧶
