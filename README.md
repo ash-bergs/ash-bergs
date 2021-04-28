@@ -9,4 +9,4 @@ I'm Ash. I'm a full stack engineer with a passion for UX design and accessibilit
 - 💬 Ask me about ... almost anything! 
 - 📫 How to reach me: ... **bergsma.ash@gmail.com** 
 - 📖 I'm currently reading... [The Victorian Internet](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X) by Tom Standage
-- ⚡ Fun fact: ... I love knitting 🧶
+- ⚡ Fun fact: ... I love knitting 🧶  
