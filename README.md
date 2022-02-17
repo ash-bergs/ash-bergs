@@ -1,12 +1,11 @@
 ## 🌻 Welcome 🌻 
 
-I'm Ash. I'm a full stack engineer with a passion for UX design and accessibility. I love creating educational apps and experiences. 
+I'm a frontend developer with a passion for accessibility, testing, and 
 
-- ⚒ I’m currently working on ... my [Blog](https://dev.to/ash_bergs) and flashcard studying app
-- 📚 I’m currently learning ... Jest testing and Adobe Illustrator
-- 👯 I’m looking to collaborate on ... React/Python & more!
-- 🤔 I’m looking for help with ... thinking modularly
-- 💬 Ask me about ... almost anything! 
-- 📫 How to reach me: ... **bergsma.ash@gmail.com** 
-- 📖 I'm currently reading... [The Victorian Internet](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X) by Tom Standage
+- ⚒ I’m currently working on ... my [Blog](https://dev.to/ash_bergs) and getting my WAS Certification
+- 📚 I’m currently learning ... Playwright Testing & TypeScript
+- 🤔 I’m looking for help with ... applying accessible principles at development time
+- 💬 Ask me about ... almost anything!
+- 📫 How to reach me: ... [🐦](https://twitter.com/ash_bergs)
+- 📖 I'm currently reading... [Inclusive Design for a Digital World](https://reginegilbert.com/inclusive-design-book) by Regine Gilbert & the [Saga series](https://imagecomics.com/comics/series/saga) by Brian K. Vaughn and Fiona Staples
 - ⚡ Fun fact: ... I love knitting 🧶  
