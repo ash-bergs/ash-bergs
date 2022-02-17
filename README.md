@@ -1,6 +1,6 @@
 ## 🌻 Welcome 🌻 
 
-I'm a frontend developer with a passion for accessibility, testing, and 
+I'm a frontend developer with a passion for accessibility, testing, and writing.
 
 - ⚒ I’m currently working on ... my [Blog](https://dev.to/ash_bergs) and getting my WAS Certification
 - 📚 I’m currently learning ... Playwright Testing & TypeScript
