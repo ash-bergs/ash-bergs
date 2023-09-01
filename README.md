@@ -1,7 +1,21 @@
-## 🌻 Welcome 🌻 
+---
 
-Welcome to my GitHub page! 
+👩‍💻 **Hello World!** I'm Ash.
 
-I am a frontend engineer with a passion for building dynamic and engaging user interfaces. My expertise lies in Javascript and Typescript, and I am always exploring new ways to push the boundaries of what's possible on the web. Accessibility is a key focus in my work, and I strive to create inclusive experiences for all users. 
+🔍 **Frontend Explorer:** With 3 years in the industry, I craft visually engaging and interactive web experiences primarily using JavaScript. My tool belt includes but isn't limited to: 
+- 📚 React & Next.js
+- 💅 Chakra UI for sleek design
+- 🔷 TypeScript and tRPC
+- 📮 Prisma
+- 🌐 Mapbox
 
-In my free time, I am also a gamer and a chef, which gives me a unique perspective on user experience and design. I am also fascinated by Notion and APIs, and enjoy experimenting with ways to integrate them into my projects. Thanks for visiting!
+🎨 **Beyond the Screen:** As much as I love to code, I'm a multidimensional creature:
+- 🌋 Avid reader of all things geology & meteorology. Volcanoes? Hurricanes? Earthquakes? Yes, please!
+- 📘 Last best book I read [Run the Storm: A Savage Hurricane, a Brave Crew, and the Wreck of the SS El Faro](https://www.amazon.com/Run-Storm-Savage-Hurricane-Brave/dp/150118489X)
+- 🧶 Knitting enthusiast
+- 🍳 Former chef - coding's gain, but I can still whip up a mean dish!
+- 🎨 Artist at heart
+
+💬 **Let's Connect!** Whether you're interested in collaborating on a project, discussing the mysteries of the Earth, or simply want to share a knitting pattern, I'm all ears!
+
+---
