@@ -1,5 +1,3 @@
----
-
 👩‍💻 **Hello World!** I'm Ash.
 
 🔍 **Frontend Explorer:** With 3 years in the industry, I craft visually engaging and interactive web experiences primarily using JavaScript. My tool belt includes but isn't limited to: 
@@ -9,7 +7,7 @@
 - 📮 Prisma
 - 🌐 Mapbox
 
-🎨 **Beyond the Screen:** As much as I love to code, I'm a multidimensional creature:
+🎨 **Beyond the Screen:** As much as I love to code, I'm also :
 - 🌋 Avid reader of all things geology & meteorology. Volcanoes? Hurricanes? Earthquakes? Yes, please!
 - 📘 Last best book I read [Run the Storm: A Savage Hurricane, a Brave Crew, and the Wreck of the SS El Faro](https://www.amazon.com/Run-Storm-Savage-Hurricane-Brave/dp/150118489X)
 - 🧶 Knitting enthusiast
@@ -18,4 +16,3 @@
 
 💬 **Let's Connect!** Whether you're interested in collaborating on a project, discussing the mysteries of the Earth, or simply want to share a knitting pattern, I'm all ears!
 
----
