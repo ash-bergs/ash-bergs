@@ -7,7 +7,7 @@
 - 📮 Prisma
 - 🌐 Mapbox
 
-🎨 **Beyond the Screen:** As much as I love to code, I'm also :
+🎨 **Beyond the Screen:**
 - 🌋 Avid reader of all things geology & meteorology. Volcanoes? Hurricanes? Earthquakes? Yes, please!
 - 📘 Last best book I read [Run the Storm: A Savage Hurricane, a Brave Crew, and the Wreck of the SS El Faro](https://www.amazon.com/Run-Storm-Savage-Hurricane-Brave/dp/150118489X)
 - 🧶 Knitting enthusiast
