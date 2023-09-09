@@ -14,5 +14,7 @@
 - 🍳 Former chef - coding's gain, but I can still whip up a mean dish!
 - 🎨 Artist at heart
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ash-bergs)](https://git.io/streak-stats)
+
 💬 **Let's Connect!** Whether you're interested in collaborating on a project, discussing the mysteries of the Earth, or simply want to share a knitting pattern, I'm all ears!
 
