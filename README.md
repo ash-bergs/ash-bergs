@@ -1,5 +1,7 @@
 👩‍💻 **Hello World!** I'm Ash.
 
+#### View My [Portfolio](https://ash-bergs-dev.vercel.app/) 🖼️
+
 🔍 **Frontend Explorer:** With 3 years in the industry, I craft visually engaging and interactive web experiences primarily using JavaScript. My tool belt includes but isn't limited to: 
 - 📚 React & Next.js
 - 💅 Chakra UI for sleek design
